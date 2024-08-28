@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajan Kumar
+# Hi There i'm RAJAN KUMAR
 - 👀 I’m interested in Java Full Stack Developer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Good Projects
