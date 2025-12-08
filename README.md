@@ -1,5 +1,5 @@
 # Hi There i'm RAJAN KUMAR
-- 👀 I’m interested in Mern Stack Developer
+- 👀 I’m interested in Mern Stack Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Good Projects
 - 📫 How to reach me: krajan92946@gmail.com 
